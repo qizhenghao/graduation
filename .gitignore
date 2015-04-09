@@ -1,0 +1,11 @@
+# 忽略*.o和*.a文件
+ *.[oa]
+# 忽略*.b和*.B文件，my.b除外
+*.[bB]
+!my.b
+# 忽略out文件
+out
+# 忽略out文件
+bin
+# 忽略out文件
+gen

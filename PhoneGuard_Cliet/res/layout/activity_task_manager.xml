@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+                  android:orientation="vertical">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+            <TextView
+                    android:id="@+id/tv_running_prcesscount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:layout_weight="1"
+                    android:text="进程：0"
+                    android:layout_marginLeft="20dp"
+                    android:textSize="14sp"/>
+
+            <TextView
+                    android:id="@+id/tv_ram_info"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="内存：0/0"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:textSize="14sp"/>
+
+            <TextView
+                    android:id="@+id/clean_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:layout_marginRight="20dp"
+                    android:layout_weight="1"
+                    android:text="清理"
+                    android:textColor="@color/green_light"
+                    android:textSize="18sp"/>
+        </LinearLayout>
+
+        <com.bruce.phoneguard.android.ui.TabViewPagerIndicator
+                android:id="@+id/discover_tab_page_indicator"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <LinearLayout
+                    android:id="@+id/tab_text_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                <TextView
+                        android:id="@+id/discover_tab_one"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:gravity="center"
+                        android:layout_weight="1"
+                        android:text="建议清理"
+                        android:textSize="16sp"/>
+
+                <TextView
+                        android:id="@+id/discover_tab_two"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="用户进程"
+                        android:textSize="16sp"/>
+
+                <TextView
+                        android:id="@+id/discover_tab_three"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="系统进程"
+                        android:textSize="16sp"/>
+            </LinearLayout>
+
+            <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_below="@id/tab_text_layout"
+                    android:background="@drawable/common_divider"/>
+
+            <com.bruce.phoneguard.android.ui.LineViewPagerIndicator
+                    android:id="@+id/discover_tab_line_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_below="@id/tab_text_layout"
+                    android:layout_height="3dp">
+            </com.bruce.phoneguard.android.ui.LineViewPagerIndicator>
+        </com.bruce.phoneguard.android.ui.TabViewPagerIndicator>
+        <android.support.v4.view.ViewPager
+                android:id="@+id/discover_view_pager"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@id/discover_tab_page_indicator">
+        </android.support.v4.view.ViewPager>
+    </LinearLayout>
+
+
+    <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="290">
+
+        <LinearLayout
+                android:id="@+id/ll_loading"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:visibility="invisible">
+
+            <ProgressBar
+                    style="@style/MyProgressBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="正在加载..."/>
+        </LinearLayout>
+
+    </FrameLayout>
+
+
+</RelativeLayout>

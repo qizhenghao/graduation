@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+            >
+        <LinearLayout
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+
+            <RelativeLayout android:layout_width="fill_parent"
+                            android:layout_height="35dp"
+                            android:layout_marginTop="5dp"
+                            android:orientation="horizontal"
+                            android:gravity="center_vertical">
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="fill_parent"
+                          android:text="自动同步"
+                          android:gravity="center_vertical"
+                          style="@style/txt_one"
+                          android:layout_marginLeft="30dp"
+                        />
+                <Switch android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="20dp"
+                        android:gravity="bottom"
+                        android:id="@+id/auto_syn_switch"/>
+            </RelativeLayout>
+
+            <View android:layout_width="fill_parent"
+                  android:layout_height="1dp"
+                  android:background="@color/transparent_60"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"></View>
+
+            <RelativeLayout android:layout_width="fill_parent"
+                            android:layout_height="35dp"
+                            android:layout_marginTop="5dp"
+                            android:orientation="horizontal"
+                            android:gravity="center_vertical">
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="fill_parent"
+                          android:text="仅在wifi下自动同步"
+                          android:gravity="center_vertical"
+                          style="@style/txt_one"
+                          android:layout_marginLeft="30dp"
+                        />
+                <Switch android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_marginRight="20dp"
+                        android:gravity="bottom"
+                        android:id="@+id/auto_wifi_syn_switch"/>
+            </RelativeLayout>
+
+
+            <TextView android:layout_width="fill_parent"
+                      android:layout_height="wrap_content"
+                      android:text="同步项"
+                      style="@style/txt_three"
+                      android:layout_marginLeft="30dp"
+                      android:layout_marginTop="10dp"/>
+
+            <View android:layout_width="fill_parent"
+                  android:layout_height="1dp"
+                  android:background="@color/transparent_90"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"></View>
+
+            <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:id="@+id/contact_select_layout"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="30dp"
+                            android:gravity="center_vertical">
+                <ImageView android:layout_width="45dp"
+                           android:layout_height="45dp"
+                           android:layout_marginTop="8dp"
+                           android:src="@drawable/contacts_pic"
+                           android:id="@+id/contact_IV"/>
+                <TextView android:layout_width="wrap_content"
+                          android:layout_height="fill_parent"
+                          android:text="联系人"
+                          android:layout_marginLeft="10dp"
+                          android:gravity="center_vertical"
+                          style="@style/txt_one"
+                          android:layout_toRightOf="@id/contact_IV"
+                        />
+                <LinearLayout android:layout_width="wrap_content"
+                              android:layout_height="fill_parent"
+                              android:layout_alignParentRight="true"
+                              android:gravity="center_vertical">
+                    <ImageView android:layout_width="25dp"
+                               android:layout_height="25dp"
+                               android:layout_marginRight="60dp"
+                               android:src="@drawable/check_selected_green"
+                               android:id="@+id/contact_select_iv"
+                            />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <View android:layout_width="fill_parent"
+                  android:layout_height="1dp"
+                  android:background="@color/transparent_60"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"></View>
+
+            <RelativeLayout
+                    android:id="@+id/message_select_layout"
+                    android:layout_width="fill_parent"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="30dp"
+                            android:gravity="center_vertical">
+                <ImageView android:layout_width="45dp"
+                           android:layout_height="45dp"
+                           android:layout_marginTop="8dp"
+                           android:src="@drawable/messag_pic"
+                           android:id="@+id/message_IV"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                          android:text="短信"
+                          android:layout_marginLeft="10dp"
+                          android:gravity="center_vertical"
+                          style="@style/txt_one"
+                          android:layout_toRightOf="@id/message_IV"
+                        />
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent"
+                              android:layout_alignParentRight="true"
+                              android:gravity="center_vertical">
+                    <ImageView android:layout_width="25dp" android:layout_height="25dp"
+                               android:layout_marginRight="60dp"
+                               android:src="@drawable/check_selected_green"
+                               android:id="@+id/message_select_iv"
+                            />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <View android:layout_width="fill_parent" android:layout_height="1dp"
+                  android:background="@color/transparent_60"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"></View>
+
+            <RelativeLayout
+                    android:id="@+id/record_select_layout"
+                    android:layout_width="fill_parent"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="30dp"
+                            android:gravity="center_vertical">
+                <ImageView android:layout_width="45dp"
+                           android:layout_height="45dp"
+                           android:layout_marginTop="8dp"
+                           android:src="@drawable/call_record_pic"
+                           android:id="@+id/record_IV"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                          android:text="通话记录"
+                          android:layout_marginLeft="10dp"
+                          android:gravity="center_vertical"
+                          style="@style/txt_one"
+                          android:layout_toRightOf="@id/record_IV"
+                        />
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent"
+                              android:layout_alignParentRight="true"
+                              android:gravity="center_vertical">
+                    <ImageView android:layout_width="25dp" android:layout_height="25dp"
+                               android:layout_marginRight="60dp"
+                               android:src="@drawable/check_selected_green"
+                               android:id="@+id/record_select_iv"
+                            />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <View android:layout_width="fill_parent" android:layout_height="1dp"
+                  android:background="@color/transparent_60"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"></View>
+
+            <RelativeLayout
+                    android:id="@+id/album_select_layout"
+                    android:layout_width="fill_parent"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="30dp"
+                            android:gravity="center_vertical">
+                <ImageView android:layout_width="45dp"
+                           android:layout_height="45dp"
+                           android:layout_marginTop="8dp"
+                           android:src="@drawable/photo_pic"
+                           android:id="@+id/album_IV"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                          android:text="相册"
+                          android:layout_marginLeft="10dp"
+                          android:gravity="center_vertical"
+                          style="@style/txt_one"
+                          android:layout_toRightOf="@id/album_IV"
+                        />
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent"
+                              android:layout_alignParentRight="true"
+                              android:gravity="center_vertical">
+                    <ImageView android:layout_width="25dp" android:layout_height="25dp"
+                               android:layout_marginRight="60dp"
+                               android:src="@drawable/check_selected_green"
+                               android:id="@+id/album_select_iv"
+                            />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <View android:layout_width="fill_parent" android:layout_height="1dp"
+                  android:background="@color/transparent_60"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"></View>
+
+            <RelativeLayout
+                    android:id="@+id/file_select_layout"
+                    android:layout_width="fill_parent"
+                            android:layout_height="60dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="30dp"
+                            android:gravity="center_vertical">
+                <ImageView android:layout_width="45dp"
+                           android:layout_height="45dp"
+                           android:layout_marginTop="8dp"
+                           android:src="@drawable/file_pic"
+                           android:id="@+id/file_IV"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+                          android:text="重要文件"
+                          android:layout_marginLeft="10dp"
+                          android:gravity="center_vertical"
+                          style="@style/txt_one"
+                          android:layout_toRightOf="@id/file_IV"
+                        />
+                <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent"
+                              android:layout_alignParentRight="true"
+                              android:gravity="center_vertical">
+                    <ImageView android:layout_width="25dp" android:layout_height="25dp"
+                               android:layout_marginRight="60dp"
+                               android:src="@drawable/check_selected_green"
+                               android:id="@+id/file_select_iv"
+                            />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <View android:layout_width="fill_parent" android:layout_height="1dp"
+                  android:background="@color/transparent_60"
+                  android:layout_marginLeft="20dp"
+                  android:layout_marginRight="20dp"></View>
+
+            <TextView
+                    android:id="@+id/right_now_syn_tv"
+                    android:layout_width="fill_parent"
+                      android:layout_height="50dp"
+                      android:text="立即同步"
+                      android:layout_marginTop="2dp"
+                      android:textSize="18sp"
+                      android:textColor="@color/green_light"
+                      android:gravity="center"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/table
+END
+OneToMany.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/table/OneToMany.java
+END
+TableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/table/TableInfo.java
+END
+ManyToOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/table/ManyToOne.java
+END
+Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/table/Id.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/table/Property.java
+END
+KeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/table/KeyValue.java
+END

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手机卫士</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="test">测试</string>
+    <string name="commit">完成</string>
+    <string name="frequent_function">常用功能</string>
+    <string name="management_function">所有功能</string>
+    <string name="personal_setting">个人设置</string>
+    <string name="personal_profile">个人资料</string>
+    <string name="software_manage">软件管理</string>
+
+    <string name="dialog_yes">确定</string>
+    <string name="dialog_no">取消</string>
+
+    <!-- 图案解锁字符串 -->
+    <string name="lockscreen_access_pattern_start">"开始绘制图案"</string>
+    <string name="lockscreen_access_pattern_cleared">"图案已清除"</string>
+    <string name="lockscreen_access_pattern_cell_added">"已添加单元格"</string>
+    <string name="lockscreen_access_pattern_detected">"图案绘制完成"</string>
+    <string name="lockpattern_retry_button_text">"重试"</string>
+    <string name="lockpattern_continue_button_text">"继续"</string>
+    <string name="lockpattern_confirm_button_text">"确认"</string>
+    <string name="lockpattern_recording_intro_header">"绘制解锁图案"</string>
+    <string name="lockpattern_settings_help_how_to_record">"如何绘制解锁图案"</string>
+    <string name="lockpattern_recording_incorrect_too_short">"至少连接4个点，请重试"</string>
+    <string name="lockpattern_pattern_entered_header">"图案已记录"</string>
+    <string name="lockpattern_need_to_confirm">"请再次绘制解锁图案"</string>
+    <string name="lockpattern_need_to_unlock_wrong">"与上次输入不一致，请重试"</string>
+    <string name="lockpattern_pattern_confirmed_header">"确认保存新解锁图案"</string>
+    <string name="lockpattern_recording_inprogress">"完成后松开手指"</string>
+    <string name="gesture_password_guide_text">你可以创建一个解锁图案，这样他人在借用你的手机时，将无法打开应用。</string>
+    <string name="gesture_password_guide_creat_btn">创建手势密码</string>
+
+
+    <string name="MouthUsed">本月已用</string>
+    <string name="DayUsed">今日已用</string>
+    <string name="toClearDay">距结算日</string>
+    <string name="Day">天</string>
+    <string name="mouthTraffic">包月流量</string>
+    <string name="trafficCorrection">基础设置</string>
+    <string name="trafficSuperCorrection">高级设置</string>
+    <string name="haveNotSetup">未设置</string>
+    <string name="mouthAccount">月结算日</string>
+    <string name="initMounthAccountDate">每月 1 日</string>
+    <string name="usedTraffic">已用流量</string>
+    <string name="question">向运营商校正</string>
+    <string name="mouthWarming">流量使用预警值</string>
+    <string name="autoCheck">自动矫正</string>
+    <string name="autoCheckTitle">定期校正流量数据</string>
+    <string name="regularCorrect">定期校正</string>
+    <string name="trafficUnit">MB</string>
+
+
+</resources>

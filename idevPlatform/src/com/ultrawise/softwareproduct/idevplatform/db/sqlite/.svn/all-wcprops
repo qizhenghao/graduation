@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/sqlite
+END
+SqlBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/sqlite/SqlBuilder.java
+END
+SqlInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/sqlite/SqlInfo.java
+END
+DbModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/sqlite/DbModel.java
+END
+CursorUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/sqlite/CursorUtils.java
+END
+OneToManyLazyLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/sqlite/OneToManyLazyLoader.java
+END
+ManyToOneLazyLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/db/sqlite/ManyToOneLazyLoader.java
+END

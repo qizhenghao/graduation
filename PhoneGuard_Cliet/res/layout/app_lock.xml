@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <com.bruce.phoneguard.android.ui.TabViewPagerIndicator
+            android:id="@+id/discover_tab_page_indicator"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+                android:id="@+id/tab_text_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                    android:id="@+id/tab_one"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:gravity="center"
+                    android:layout_weight="1"
+                    android:text="已锁程序"
+                    android:textSize="16sp"/>
+
+            <TextView
+                    android:id="@+id/tab_two"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="未锁程序"
+                    android:textSize="16sp"/>
+        </LinearLayout>
+
+        <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="3dp"
+                android:layout_below="@id/tab_text_layout"
+                android:background="@drawable/common_divider"/>
+
+        <com.bruce.phoneguard.android.ui.LineViewPagerIndicator
+                android:id="@+id/line1_viewpager_indicator"
+                android:layout_width="fill_parent"
+                android:layout_below="@id/tab_text_layout"
+                android:layout_height="3dp">
+        </com.bruce.phoneguard.android.ui.LineViewPagerIndicator>
+    </com.bruce.phoneguard.android.ui.TabViewPagerIndicator>
+    <android.support.v4.view.ViewPager
+            android:id="@+id/view_pager"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@id/discover_tab_page_indicator">
+    </android.support.v4.view.ViewPager>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/ll_app_manager_loading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal"
+            android:orientation="vertical"
+            android:visibility="invisible" >
+
+            <ProgressBar
+                style="@style/MyProgressBar"
+                android:layout_width="60dip"
+                android:layout_height="60dip" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="正在加载..."
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </FrameLayout>
+
+</RelativeLayout>

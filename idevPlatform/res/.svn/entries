@@ -1,0 +1,61 @@
+10
+
+dir
+51
+https://m2.svnspot.com/qizhenghao.AutoLearning/InCompany/Ultrawise/idevPlatform/sourcecode/res
+https://m2.svnspot.com/qizhenghao.AutoLearning
+
+
+
+2014-11-09T08:53:47.525831Z
+19
+qizhenghao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9116ffe8-1d1b-b459-0a76-0e171f335599
+
+anim
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+values-sw720dp-land
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+

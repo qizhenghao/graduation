@@ -1,0 +1,106 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="fragment_text">
+        <item name="android:textColor">#ffacacac</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="gridview_style" parent="android:Widget.Holo.Light.GridView">
+        <item name="android:layout_marginTop">15dip</item>
+        <item name="android:listSelector">@drawable/selector_tab</item>
+        <item name="android:numColumns">3</item>
+    </style>
+
+    <style name="txt_header" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="btn_header" parent="android:Widget.Holo.Light.Button">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="list_style" parent="android:Widget.Holo.Light.ListView">
+        <item name="android:divider">#e2e2e2</item>
+        <item name="android:dividerHeight">1dp</item>
+    </style>
+
+    <style name="titletxt" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:textColor">#999999</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="txt_three" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:textColor">@color/transparent_80</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="txt_two" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:textColor">@color/transparent_80</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="txt_one" parent="android:Widget.Holo.Light.TextView">
+        <item name="android:textColor">@color/transparent_99</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="MyProgressBar" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress_medium_white</item>
+        <item name="android:minWidth">70dip</item>
+        <item name="android:maxWidth">70dip</item>
+        <item name="android:minHeight">70dip</item>
+        <item name="android:maxHeight">70dip</item>
+    </style>
+
+    <style name="MyProgressBar_rizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal</item>
+    </style>
+    
+    <style name="widget_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/textColorPrimaryDark</item>
+    </style>
+    
+
+    <style name="ButtonGreen" parent="@android:style/Widget.Button">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@drawable/skin_color_button</item>
+        <item name="android:background">@drawable/common_btn_green</item>
+    </style>
+
+    <style name="ButtonRed" parent="@android:style/Widget.Button">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@drawable/skin_color_button</item>
+        <item name="android:background">@drawable/common_btn_red</item>
+    </style>
+
+    <style name="Theme.Transparent" parent="@android:style/Theme">
+        <item name="android:windowBackground">@color/transparent_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    
+</resources>

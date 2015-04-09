@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh
+END
+OverscrollHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/OverscrollHelper.java
+END
+PullToRefreshListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/PullToRefreshListView.java
+END
+ILoadingLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/ILoadingLayout.java
+END
+PullToRefreshScrollView.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/PullToRefreshScrollView.java
+END
+PullToRefreshBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/PullToRefreshBase.java
+END
+PullToRefreshAdapterViewBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/PullToRefreshAdapterViewBase.java
+END
+LoadingLayoutProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/LoadingLayoutProxy.java
+END
+PullToRefreshGridView.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/PullToRefreshGridView.java
+END
+IPullToRefresh.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/IPullToRefresh.java
+END
+PullToRefreshHorizontalScrollView.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/view/pulltorefresh/PullToRefreshHorizontalScrollView.java
+END

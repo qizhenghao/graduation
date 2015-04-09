@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/white"
+              android:orientation="vertical">
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+                  android:orientation="vertical">
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:id="@+id/tv_avail_rom"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="内部存储可用："/>
+
+            <TextView
+                    android:id="@+id/tv_avail_sd"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="SD卡可用："/>
+        </LinearLayout>
+
+        <com.bruce.phoneguard.android.ui.TabViewPagerIndicator
+                android:id="@+id/tab_viewpager_indicator"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white">
+
+            <LinearLayout
+                    android:id="@+id/tab_text_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                <TextView
+                        android:id="@+id/tab_one"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:gravity="center"
+                        android:layout_weight="1"
+                        android:text="建议清理"
+                        android:textSize="16sp"/>
+
+                <TextView
+                        android:id="@+id/tab_two"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="用户程序"
+                        android:textSize="16sp"/>
+
+                <TextView
+                        android:id="@+id/tab_three"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="系统程序"
+                        android:textSize="16sp"/>
+            </LinearLayout>
+
+            <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_below="@id/tab_text_layout"
+                    android:background="@drawable/common_divider"/>
+
+            <com.bruce.phoneguard.android.ui.LineViewPagerIndicator
+                    android:id="@+id/line_viewpager_indicator"
+                    android:layout_width="fill_parent"
+                    android:layout_below="@id/tab_text_layout"
+                    android:layout_height="3dp">
+            </com.bruce.phoneguard.android.ui.LineViewPagerIndicator>
+        </com.bruce.phoneguard.android.ui.TabViewPagerIndicator>
+        <android.support.v4.view.ViewPager
+                android:id="@+id/view_pager"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@id/tab_viewpager_indicator">
+        </android.support.v4.view.ViewPager>
+
+    </LinearLayout>
+
+    <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="290">
+
+        <LinearLayout
+                android:id="@+id/ll_loading"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:visibility="invisible">
+
+            <ProgressBar
+                    style="@style/MyProgressBar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="正在加载..."/>
+        </LinearLayout>
+
+    </FrameLayout>
+
+</RelativeLayout>

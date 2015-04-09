@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:itheima="http://schemas.android.com/apk/res/com.itheima.mobileguard"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:orientation="vertical"
+              android:gravity="center_horizontal"
+              android:background="@color/white">
+
+    <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical">
+
+
+        <EditText
+                android:id="@+id/et_phone_number"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:inputType="phone"
+                android:layout_alignParentLeft="true"
+                android:gravity="center"
+                android:singleLine="true"
+                android:hint="输入要查询的号码"
+                >
+        </EditText>
+
+        <Button
+                android:onClick="query"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/search_green"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="30dp"
+                />
+    </RelativeLayout>
+
+    <TextView
+            android:id="@+id/tv_address_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white_gray"
+            android:textSize="20sp"
+            android:hint="归属地"
+            android:gravity="center"
+
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+</LinearLayout>

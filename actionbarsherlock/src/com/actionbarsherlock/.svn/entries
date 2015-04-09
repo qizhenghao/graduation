@@ -1,0 +1,74 @@
+10
+
+dir
+51
+https://m2.svnspot.com/qizhenghao.AutoLearning/InCompany/Ultrawise/actionbarsherlock/sourcecode/src/com/actionbarsherlock
+https://m2.svnspot.com/qizhenghao.AutoLearning
+
+
+
+2014-11-09T08:47:03.352186Z
+17
+qizhenghao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9116ffe8-1d1b-b459-0a76-0e171f335599
+
+ActionBarSherlock.java
+file
+
+
+
+
+2015-01-29T12:15:41.931000Z
+8d7620800b8d056d780737d8de32216e
+2014-11-09T08:47:03.352186Z
+17
+qizhenghao
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30626
+
+app
+dir
+
+internal
+dir
+
+view
+dir
+
+widget
+dir
+

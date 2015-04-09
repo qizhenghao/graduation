@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="transparent">@color/transparent</item>
+    <item type="drawable" name="drawable_profile_more">#f2f3f6</item>
+    <item type="drawable" name="common_divider">#dcdde2</item>
+    <item type="drawable" name="white">@color/white</item>
+</resources>

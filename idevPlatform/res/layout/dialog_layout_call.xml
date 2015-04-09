@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:ProgressWheel="http://schemas.android.com/apk/res-auto"
+			  android:orientation="vertical"
+              android:gravity="center"
+			  android:layout_gravity="center"
+              android:layout_width="wrap_content"
+              android:layout_margin="@dimen/activity_horizontal_margin"
+              android:layout_height="wrap_content">
+	<com.ultrawise.softwareproduct.idevplatform.view.ProgressWheel
+			android:id="@+id/progressBarTwo"
+			android:layout_width="150dp"
+			android:layout_height="150dp"
+			ProgressWheel:text="Loading..."
+			ProgressWheel:textColor="#222222"
+			ProgressWheel:textSize="14sp"
+			ProgressWheel:rimColor="#44000000"
+			ProgressWheel:barLength="60dp"
+			ProgressWheel:barColor="#fffb0508"
+			ProgressWheel:barWidth="25dp"
+			ProgressWheel:rimWidth="25dp"
+			ProgressWheel:spinSpeed="3dp" />
+</LinearLayout>

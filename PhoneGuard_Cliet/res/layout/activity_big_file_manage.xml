@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#ebebeb" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="36dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+
+        <TextView
+            android:id="@+id/total_big_file_num_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0个大文件"
+            android:layout_weight="1"
+            android:textSize="14sp"
+            android:gravity="left"
+            android:textColor="@color/white_gray"
+            />
+
+        <TextView
+            android:id="@+id/total_size_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/total_big_file_num_tv"
+            android:text="共0G"
+            android:layout_weight="1"
+            android:textSize="14sp"
+            android:gravity="center"
+            android:textColor="@color/white_gray"
+            />
+
+        <TextView
+                android:id="@+id/big_file_del_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="删除"
+                android:layout_weight="1"
+                android:textSize="16sp"
+                android:textColor="@color/green_light"
+                android:gravity="right"
+                android:visibility="invisible"
+                />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="290" >
+
+        <LinearLayout
+            android:id="@+id/ll_loading"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="visible" >
+
+            <ProgressBar
+                    style="@style/MyProgressBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="正在加载..." />
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/big_file_lv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fastScrollEnabled="true"
+            android:layout_marginLeft="25dp">
+
+        </ListView>
+    </FrameLayout>
+
+</LinearLayout>

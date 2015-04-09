@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/annotation/sqlite
+END
+OneToMany.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/annotation/sqlite/OneToMany.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/annotation/sqlite/Table.java
+END
+ManyToOne.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/annotation/sqlite/ManyToOne.java
+END
+Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/annotation/sqlite/Id.java
+END
+Transient.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/annotation/sqlite/Transient.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/qizhenghao.AutoLearning/!svn/ver/19/InCompany/Ultrawise/idevPlatform/sourcecode/src/com/ultrawise/softwareproduct/idevplatform/annotation/sqlite/Property.java
+END

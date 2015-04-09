@@ -1,0 +1,103 @@
+10
+
+dir
+51
+https://m2.svnspot.com/qizhenghao.AutoLearning/InCompany/Ultrawise/actionbarsherlock/sourcecode/res
+https://m2.svnspot.com/qizhenghao.AutoLearning
+
+
+
+2014-11-09T08:47:03.352186Z
+17
+qizhenghao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9116ffe8-1d1b-b459-0a76-0e171f335599
+
+color
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-v11
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+layout-large
+dir
+
+layout-v14
+dir
+
+layout-xlarge
+dir
+
+values
+dir
+
+values-land
+dir
+
+values-large-hdpi-1024x600
+dir
+
+values-large-land-hdpi-1024x600
+dir
+
+values-large-land-mdpi-1024x600
+dir
+
+values-large-mdpi-1024x600
+dir
+
+values-sw600dp
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
+values-w360dp
+dir
+
+values-w480dp
+dir
+
+values-w500dp
+dir
+
+values-w600dp
+dir
+
+values-xlarge
+dir
+

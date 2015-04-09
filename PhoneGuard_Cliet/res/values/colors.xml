@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="red_light">#ffff4444</color>
+    <color name="green_light">#ff00c000</color>
+    <color name="orange_light">#ffffbb33</color>
+    <color name="blue_light">#ff33b5e5</color>
+    <color name="tab_selected_bg">#C4E1E1</color>
+    <color name="activity_bg">#ffe5f4f2</color>
+
+    
+    <color name="blue_light_white">#CDEDED</color>
+
+    <color name="divider_color">#ffe4e4e5</color>
+    <color name="black">#000000</color>
+    <color name="white_gray">#7C7C7C</color>
+    <color name="gray">#ff929798</color>
+    <color name="darkgray">#fff5f5f5</color>
+    <color name="deepgray">#aeadad</color>
+    <color name="white">#ffffffff</color>
+    <color name="dark_blue">#3161AA</color>
+    <color name="contextBackground">#fff0f0e5</color>
+    <color name="line">#F0F0F0</color>
+    <color name="white_wlucency">#50ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="stran">#00000000</color>
+    <color name="blue">#ff0f81d9</color>
+    <color name="font_value">#ff888271</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_99">#99000000</color>
+    <color name="transparent_90">#90000000</color>
+    <color name="transparent_20">#20000000</color>
+    <color name="transparent_40">#40000000</color>
+    <color name="transparent_60">#40000000</color>
+    <color name="transparent_80">#40000000</color>
+    <color name="whitesmoke">#F5F5F5</color>
+ <!-- 烟白色 -->
+ 	<color name="line_below_label">#ffb2cad0</color>
+ 	<color name="background">#fff6fafb</color>
+ 	<color name="text_gray">#ff696969</color>
+ 	<color name="textColorPrimary">#ffffffff</color>
+ 	<color name="textColorPrimaryDark">#ff000000</color>
+    <color name="textcolor">#ffd0d0d0</color>
+    <color name="backgroundcolor">#ff404040</color>
+ 	
+ 	<color name="gesture_background">#ff303237</color>
+    <color name="color_hei_8">#00000000</color>
+
+    <color name="transparent_background">#00000000</color>
+
+    <drawable name="trans">@color/color_hei_8</drawable>
+
+
+    <color name="tab_ling_color">#ff0ae33e</color>
+</resources>

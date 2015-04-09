@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/iv_app_icon"
+        android:layout_width="45dip"
+        android:layout_height="45dip"
+        android:scaleType="fitXY"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:src="@drawable/ic_launcher"
+        />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_toRightOf="@id/iv_app_icon"
+        android:layout_marginRight="70dp"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+
+        <TextView
+
+                android:id="@+id/tv_app_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dip"
+            android:text="功能名字"
+            android:ellipsize="middle"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_app_packname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dip"
+            android:text="包名"
+            android:textColor="#99000000"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            >
+        <ImageView
+                android:id="@+id/iv_app_lock_status"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/strongbox_app_lock_ic_unlock"
+                android:layout_marginRight="20dp"
+
+                />
+    </LinearLayout>
+
+</RelativeLayout>

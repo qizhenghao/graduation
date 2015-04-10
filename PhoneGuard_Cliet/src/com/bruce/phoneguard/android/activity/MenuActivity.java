@@ -25,7 +25,6 @@ public class MenuActivity extends FragmentActivity implements
 	private ResideMenuItem itemFrequently;
 	private ResideMenuItem itemManagement;
 	private ResideMenuItem itemProfile;
-	private ResideMenuItem itemCalendar;
 	private ResideMenuItem itemSettings;
 	
 	@Override
@@ -56,21 +55,17 @@ public class MenuActivity extends FragmentActivity implements
 		itemManagement = new ResideMenuItem(this, R.drawable.icon_manage, getResources().getString(R.string.management_function));
 		itemProfile = new ResideMenuItem(this, R.drawable.icon_profile,
 				R.string.personal_profile);
-		itemCalendar = new ResideMenuItem(this, R.drawable.icon_calendar,
-				"Calendar");
 		itemSettings = new ResideMenuItem(this, R.drawable.icon_settings,
 				R.string.personal_setting);
 
 		itemFrequently.setOnClickListener(this);
 		itemManagement.setOnClickListener(this);
 		itemProfile.setOnClickListener(this);
-		itemCalendar.setOnClickListener(this);
 		itemSettings.setOnClickListener(this);
 
         resideMenu.addMenuItem(itemProfile, ResideMenu.DIRECTION_LEFT);
         resideMenu.addMenuItem(itemFrequently, ResideMenu.DIRECTION_LEFT);
         resideMenu.addMenuItem(itemManagement, ResideMenu.DIRECTION_LEFT);
-		resideMenu.addMenuItem(itemCalendar, ResideMenu.DIRECTION_LEFT);
 		resideMenu.addMenuItem(itemSettings, ResideMenu.DIRECTION_LEFT);
 
 		// You can disable a direction by setting ->
@@ -109,8 +104,6 @@ public class MenuActivity extends FragmentActivity implements
 		} else if (view == itemProfile) {
 			changeFragment(new ProfileFragment());
 			setName(getResources().getString(R.string.personal_profile));
-		} else if (view == itemCalendar) {
-			changeFragment(new CalendarFragment());
 		} else if (view == itemSettings) {
 			changeFragment(new SettingsFragment());
 			setName(getResources().getString(R.string.personal_setting));

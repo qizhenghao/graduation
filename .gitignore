@@ -9,3 +9,5 @@ out
 bin
 # 忽略out文件
 gen
+#
+workspace.xml

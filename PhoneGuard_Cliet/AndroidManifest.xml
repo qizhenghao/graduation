@@ -113,6 +113,11 @@
         <activity android:name=".activity.AppLockActivity"></activity>
         <activity android:name=".activity.BigFileManageActivity"></activity>
         <activity android:name=".activity.DataBakeupActivity"></activity>
+		<activity android:name=".activity.Setup1Activity"></activity>
+		<activity android:name=".activity.Setup2Activity"></activity>
+		<activity android:name=".activity.Setup3Activity"></activity>
+		<activity android:name=".activity.Setup4Activity"></activity>
+		<activity android:name=".activity.SelectContactActivity"></activity>
 
         <!-- 2 特殊的广播接收者，清单文件中配置，拷贝api文档 -->
         <receiver android:name="com.bruce.phoneguard.android.receivers.DesktopWidget" >
@@ -131,6 +136,12 @@
                 <action android:name="com.bruce.phoneguard.killall" />
             </intent-filter>
         </receiver>
+		<receiver android:name=".receivers.SmsReceiver" >
+			<intent-filter android:priority="1000" >
+				<action android:name="android.provider.Telephony.SMS_RECEIVED" >
+				</action>
+			</intent-filter>
+		</receiver>
 
         <service android:name="com.bruce.phoneguard.android.services.UpdateWidgetService" >
         </service>

@@ -13,6 +13,7 @@ import android.util.Log;
 import com.bruce.phoneguard.android.activity.UnlockGesturePasswordActivity;
 import com.bruce.phoneguard.android.config.FescoConfig;
 import com.bruce.phoneguard.android.dao.AppLockDao;
+import com.bruce.phoneguard.android.receivers.SmsReceiver;
 import com.bruce.phoneguard.android.utils.SystemInfoUtils;
 
 import java.util.ArrayList;
@@ -28,6 +29,8 @@ public class WatchDogService extends Service {
 	private MyBinder myBinder;
 	private KeyguardManager keyguardManager;
 	private List<String> tempstopapps;
+
+    private SmsReceiver smsReceiver;
 
 	@Override
 	public IBinder onBind(Intent intent) {

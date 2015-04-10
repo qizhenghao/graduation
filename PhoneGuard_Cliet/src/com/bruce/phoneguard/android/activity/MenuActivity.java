@@ -71,7 +71,7 @@ public class MenuActivity extends FragmentActivity implements
 		// You can disable a direction by setting ->
 		resideMenu.setSwipeDirectionDisable(ResideMenu.DIRECTION_RIGHT);
 
-		findViewById(R.id.title_bar_left_menu).setOnClickListener(
+ 		findViewById(R.id.title_bar_left_menu).setOnClickListener(
 				new View.OnClickListener() {
 					@Override
 					public void onClick(View view) {

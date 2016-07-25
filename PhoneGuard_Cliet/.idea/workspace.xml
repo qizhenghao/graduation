@@ -31,14 +31,8 @@
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="b4a83b20-93ba-4e4e-aac8-dace462612c7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idevPlatform/.classpath" afterPath="$PROJECT_DIR$/../idevPlatform/.classpath" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhoneGuard_Cliet.iml" afterPath="$PROJECT_DIR$/PhoneGuard_Cliet.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ResideMenu/ResideMenu.iml" afterPath="$PROJECT_DIR$/../ResideMenu/ResideMenu.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../actionbarsherlock/actionbarsherlock.iml" afterPath="$PROJECT_DIR$/../actionbarsherlock/actionbarsherlock.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idevPlatform/idevPlatform.iml" afterPath="$PROJECT_DIR$/../idevPlatform/idevPlatform.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhoneGuard_Cliet.iws" />
     <ignored path=".idea/workspace.xml" />

@@ -15,13 +15,7 @@
   </component>
   <component name="AndroidLayouts">
     <shared>
-      <config>
-        <devices>
-          <device id="Nexus 4" />
-          <device id="Nexus 7" />
-          <device id="Nexus 10" />
-        </devices>
-      </config>
+      <config />
     </shared>
     <layouts>
       <layout url="file://$PROJECT_DIR$/res/layout/item_traffic_info.xml">
@@ -32,298 +26,24 @@
     </layouts>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.bruce.phoneguard.android" />
   </component>
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="b4a83b20-93ba-4e4e-aac8-dace462612c7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/jarlist.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/jarlist.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_bottom_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_bottom_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_bottom_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_bottom_solid_inverse_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_bottom_solid_inverse_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_bottom_solid_inverse_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_bottom_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_bottom_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_bottom_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_bottom_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_bottom_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_bottom_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_bottom_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_bottom_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_bottom_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_share_pack_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_share_pack_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_share_pack_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_share_pack_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_share_pack_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_share_pack_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_solid_shadow_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_solid_shadow_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_solid_shadow_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_stacked_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_stacked_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_stacked_solid_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_stacked_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_stacked_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_stacked_solid_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_stacked_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_stacked_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_stacked_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_stacked_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_stacked_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_stacked_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_transparent_dark_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ab_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ab_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ab_transparent_light_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__btn_cab_done_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__btn_cab_done_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__btn_cab_done_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__btn_cab_done_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__btn_cab_done_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__btn_cab_done_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__btn_cab_done_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__btn_cab_done_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__btn_cab_done_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__btn_cab_done_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__btn_cab_done_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__btn_cab_done_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__btn_cab_done_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__btn_cab_done_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__btn_cab_done_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__btn_cab_done_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__btn_cab_done_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__btn_cab_done_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__cab_background_bottom_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__cab_background_bottom_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__cab_background_bottom_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__cab_background_bottom_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__cab_background_bottom_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__cab_background_bottom_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__cab_background_top_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__cab_background_top_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__cab_background_top_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__cab_background_top_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__cab_background_top_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__cab_background_top_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_ab_back_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_ab_back_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_ab_back_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_ab_back_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_ab_back_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_ab_back_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_cab_done_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_cab_done_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_cab_done_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_cab_done_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_cab_done_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_cab_done_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_clear_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_clear_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_clear_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_clear_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_clear_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_clear_search_api_disabled_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_clear_search_api_disabled_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_clear_search_api_disabled_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_clear_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_clear_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_clear_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_commit_search_api_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_commit_search_api_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_commit_search_api_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_commit_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_commit_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_commit_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_go.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_go.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_go.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_go_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_go_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_go_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_menu_moreoverflow_normal_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_menu_share_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_menu_share_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_menu_share_holo_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_menu_share_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_menu_share_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_menu_share_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_voice_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_voice_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_voice_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__ic_voice_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__ic_voice_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__ic_voice_search_api_holo_light.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_activated_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_activated_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_activated_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_divider_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_divider_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_divider_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_divider_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_divider_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_divider_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_longpressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_selector_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__list_selector_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__menu_dropdown_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__menu_dropdown_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__menu_dropdown_panel_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__menu_dropdown_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__menu_dropdown_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__menu_dropdown_panel_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__progress_bg_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__progress_bg_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__progress_bg_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__progress_bg_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__progress_bg_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__progress_bg_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__progress_primary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__progress_primary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__progress_primary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__progress_primary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__progress_primary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__progress_primary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__progress_secondary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__progress_secondary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__progress_secondary_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__progress_secondary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__progress_secondary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__progress_secondary_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_48_inner_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_48_inner_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_48_inner_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_48_outer_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_48_outer_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_48_outer_holo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_disabled_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_disabled_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_focused_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_focused_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_pressed_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__spinner_ab_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__spinner_ab_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__spinner_ab_pressed_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__tab_selected_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__tab_selected_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__tab_selected_focused_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__tab_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__tab_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__tab_selected_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__tab_selected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__tab_selected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__tab_selected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__tab_unselected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__tab_unselected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__tab_unselected_pressed_holo.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_right_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_right_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_right_default_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_right_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_right_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_right_default_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_right_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_right_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_right_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_right_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_right_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_right_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_selected_holo_dark.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__textfield_search_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__textfield_search_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__textfield_search_selected_holo_light.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi/abs__toast_frame.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi/abs__toast_frame.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi/abs__toast_frame.9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/actionbarsherlock.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/res/crunch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/res/crunch/drawable-hdpi/default_ptr_flip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/res/crunch/drawable-hdpi/default_ptr_rotate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-hdpi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/res/crunch/drawable-hdpi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-mdpi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res/crunch/drawable-xhdpi" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/idevplatform.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/res/crunch/drawable-hdpi/img_default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/res/crunch/drawable-hdpi/indicator_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../actionbarsherlock/bin/res" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../idevPlatform/bin/res" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idevPlatform/.classpath" afterPath="$PROJECT_DIR$/../idevPlatform/.classpath" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../actionbarsherlock/gen/com/actionbarsherlock/BuildConfig.java" afterPath="$PROJECT_DIR$/../actionbarsherlock/gen/com/actionbarsherlock/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idevPlatform/gen/com/ultrawise/softwareproduct/idevplatform/BuildConfig.java" afterPath="$PROJECT_DIR$/../idevPlatform/gen/com/ultrawise/softwareproduct/idevplatform/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../actionbarsherlock/gen/com/actionbarsherlock/R.java" afterPath="$PROJECT_DIR$/../actionbarsherlock/gen/com/actionbarsherlock/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idevPlatform/gen/com/ultrawise/softwareproduct/idevplatform/R.java" afterPath="$PROJECT_DIR$/../idevPlatform/gen/com/ultrawise/softwareproduct/idevplatform/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PhoneGuard_Cliet.iml" afterPath="$PROJECT_DIR$/PhoneGuard_Cliet.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ResideMenu/ResideMenu.iml" afterPath="$PROJECT_DIR$/../ResideMenu/ResideMenu.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../actionbarsherlock/actionbarsherlock.iml" afterPath="$PROJECT_DIR$/../actionbarsherlock/actionbarsherlock.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../idevPlatform/idevPlatform.iml" afterPath="$PROJECT_DIR$/../idevPlatform/idevPlatform.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PhoneGuard_Cliet.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,123 +59,120 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="PhoneGuard_Cliet" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Setup4Activity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup4Activity.java">
+      <file leaf-file-name="TaskManagerActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/TaskManagerActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1160">
-              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmsReceiver.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/receivers/SmsReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="1380">
-              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WatchDogService.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/services/WatchDogService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76642334" vertical-offset="1200" max-vertical-offset="3060">
-              <caret line="102" column="39" selection-start-line="102" selection-start-column="39" selection-end-line="102" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="196" column="63" selection-start-line="196" selection-start-column="63" selection-end-line="196" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyAdmin.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/MyAdmin.java">
+      <file leaf-file-name="activity_task_manager.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_task_manager.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="260">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="87" column="56" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Setup3Activity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup3Activity.java">
+      <file leaf-file-name="drawables.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/drawables.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
-              <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1180#1181#0" expanded="true" />
-                <element signature="e#1244#1245#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="62" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MenuActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AppManagerActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AppManagerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="207" column="13" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/MenuActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="2620">
-              <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-              <folding>
-                <element signature="e#2871#3019#0" expanded="true" />
-                <element signature="e#3012#3013#0" expanded="true" />
-                <element signature="e#3088#3237#0" expanded="true" />
-                <element signature="e#3230#3231#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrequentlyFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/FrequentlyFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="1320">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.70076334">
+              <caret line="65" column="45" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SettingsFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/SettingsFragment.java">
+      <file leaf-file-name="AdviceAppFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/AdviceAppFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="4960">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/BaseFragment.java">
+      <file leaf-file-name="SystemAppFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/SystemAppFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1872" max-vertical-offset="2760">
-              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="164" column="26" selection-start-line="164" selection-start-column="26" selection-end-line="164" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <file leaf-file-name="UserAppFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/UserAppFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2519" max-vertical-offset="3200">
-              <caret line="140" column="66" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdviceTaskFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/task/AdviceTaskFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SystemTaskFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/task/SystemTaskFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlanSettingFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/traffic/PlanSettingFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -468,70 +185,16 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
-        <entry key="D:/11/A2_Camera" value="5690073097376" />
-        <entry key="D:/Git_code/A2_Camera" value="5690080193268" />
-        <entry key="D:/renren_code/A2_Camera" value="5689082598467" />
+        <entry key="$PROJECT_DIR$/../../../11/A2_Camera" value="5690073097376" />
+        <entry key="$PROJECT_DIR$/../../../Git_code/A2_Camera" value="5690080193268" />
+        <entry key="$PROJECT_DIR$/../../../renren_code/A2_Camera" value="5689082598467" />
       </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="changedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/SystemAppFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/UserAppFragment.java" />
-        <option value="$PROJECT_DIR$/res/drawable/progress_medium_white.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/traffic/TrafficSortFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/applock/SystemAppFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/applock/LockedFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/parser/AppInfoParser.java" />
-        <option value="$PROJECT_DIR$/src/CacheData.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/SysApplication.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/CacheData.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AppLockActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/applock/LockedAppFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/applock/UnlockAppFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/control/AppLockAdapter.java" />
-        <option value="$PROJECT_DIR$/res/layout/app_lock.xml" />
-        <option value="$PROJECT_DIR$/res/layout/scan_virus_item.xml" />
-        <option value="$PROJECT_DIR$/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AntiVirusActivity.java" />
-        <option value="$PROJECT_DIR$/res/drawable/selector_software_mana_item.xml" />
-        <option value="$PROJECT_DIR$/res/drawable/selector_task_mana_item.xml" />
-        <option value="$PROJECT_DIR$/res/drawable/selector_off_item.xml" />
-        <option value="$PROJECT_DIR$/res/drawable/selector_garbage_clean_item.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/InitData.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/BaseFragment.java" />
-        <option value="$PROJECT_DIR$/res/layout/activity_data_bakeup.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/DataBakeupActivity.java" />
-        <option value="$PROJECT_DIR$/res/layout/fragment_use_plan.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/CleanCacheActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/utils/FileUtils.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/res/layout/menu.xml" />
-        <option value="$PROJECT_DIR$/res/layout/activity_against_theft.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AgainstTheftActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/ui/SettingTheftTerminalDialog.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/SetupTheftActivity.java" />
-        <option value="$PROJECT_DIR$/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/res/layout/activity_setup2.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup1Activity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup2Activity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup4Activity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup3Activity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/ContactInfo.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/parser/ContactInfoParser.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/SelectContactActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/MenuActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/BaseSetupActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/provider/GPSInfoProvider.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/MyAdmin.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/receivers/SmsReceiver.java" />
-        <option value="$PROJECT_DIR$/src/com/bruce/phoneguard/android/services/WatchDogService.java" />
-      </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
@@ -549,19 +212,24 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+  <component name="NamedScopeManager">
+    <order />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="1276" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
     <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
@@ -577,11 +245,11 @@
       <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -590,20 +258,6 @@
               <option name="myItemId" value="PhoneGuard_Cliet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Android SDK &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -612,7 +266,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -622,15 +276,15 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -640,19 +294,19 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -662,11 +316,19 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -676,29 +338,23 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="raw" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="appmanage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -708,15 +364,19 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="control" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -726,15 +386,39 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="PhoneGuard_Cliet" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGuard_Cliet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGuard_Cliet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -744,7 +428,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.XML" />
+    <property name="options.lastSelected" value="preferences.sourceCode" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -755,28 +439,30 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="75ABBKM22RYW" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="4b5dd873" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
     <property name="SearchEverywhereHistoryKey" value="cach&#9;PSI&#9;JAVA://com.bruce.phoneguard.android.activity.CleanCacheActivity&#10;Traffi&#9;FILE&#9;file://D:/WorkSpace/Graduation_Design/PhoneGuard_Client/PhoneGuard_Cliet/src/com/bruce/phoneguard/android/fragment/traffic/TrafficSortFragment.java&#10;Apppa&#9;FILE&#9;file://D:/WorkSpace/Graduation_Design/PhoneGuard_Client/PhoneGuard_Cliet/src/com/bruce/phoneguard/android/model/parser/AppInfoParser.java&#10;Tra&#9;FILE&#9;file://D:/WorkSpace/Graduation_Design/PhoneGuard_Client/PhoneGuard_Cliet/src/com/bruce/phoneguard/android/activity/TrafficManagerActivity.java&#10;lock&#9;FILE&#9;file://D:/WorkSpace/Graduation_Design/PhoneGuard_Client/PhoneGuard_Cliet/src/com/bruce/phoneguard/android/activity/AppLockActivity.java&#10;Cle&#9;FILE&#9;file://D:/WorkSpace/Graduation_Design/PhoneGuard_Client/PhoneGuard_Cliet/src/com/bruce/phoneguard/android/activity/CleanCacheActivity.java" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Test1" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bruce.phoneguard.android.ui" />
       <recent name="com.bruce.phoneguard.android" />
       <recent name="com.bruce.phoneguard.android.fragment.task" />
       <recent name="com.bruce.phoneguard.android.model" />
       <recent name="com.bruce.phoneguard.android.activity" />
+      <recent name="com.bruce.phoneguard.android.provider" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\my_graduation\graduation\PhoneGuard_Cliet\res" />
-      <recent name="D:\my_graduation\graduation\PhoneGuard_Cliet\res\layout" />
-      <recent name="D:\my_graduation\graduation\PhoneGuard_Cliet\res\drawable-xhdpi" />
-      <recent name="D:\my_graduation\graduation\PhoneGuard_Cliet\src\com\bruce\phoneguard\android\activity" />
-      <recent name="D:\my_graduation\graduation\PhoneGuard_Cliet\res\anim" />
+      <recent name="D:\WorkSpace\Graduation_Design\PhoneGuard_Client\PhoneGuard_Cliet\res\drawable-xxhdpi" />
+      <recent name="D:\WorkSpace\Graduation_Design\PhoneGuard_Client\actionbarsherlock" />
+      <recent name="D:\WorkSpace\Graduation_Design\PhoneGuard_Client\PhoneGuard_Cliet\src\com\bruce\phoneguard\android\fragment\applock" />
+      <recent name="D:\WorkSpace\Graduation_Design\PhoneGuard_Client\PhoneGuard_Cliet\res\drawable-xhdpi" />
+      <recent name="D:\WorkSpace\Graduation_Design\PhoneGuard_Client\PhoneGuard_Cliet\src\com\bruce\phoneguard\android\fragment\appmanage" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.bruce.phoneguard.android.activity" />
@@ -786,10 +472,33 @@
     </key>
   </component>
   <component name="RunManager" selected="Android Application.PhoneGuard_Cliet">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -811,6 +520,72 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -849,75 +624,6 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="false" name="PhoneGuard_Cliet" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="PhoneGuard_Cliet" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -936,6 +642,15 @@
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
       <RunnerSettings RunnerId="AndroidDebugRunner" />
       <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
       <method />
@@ -949,37 +664,32 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SliceManager">
-    <option name="analysisUIOptions">
-      <AnalysisUIOptions />
-    </option>
-  </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <configuration>$USER_HOME$/.subversion</configuration>
     <supportedVersion>125</supportedVersion>
   </component>
   <component name="SvnFileUrlMappingImpl">
     <option name="myMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\my_graduation\graduation\actionbarsherlock" />
-          <option name="myCopyRoot" value="D:\my_graduation\graduation\actionbarsherlock" />
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../actionbarsherlock" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../actionbarsherlock" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\my_graduation\graduation\idevPlatform" />
-          <option name="myCopyRoot" value="D:\my_graduation\graduation\idevPlatform" />
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../idevPlatform" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../idevPlatform" />
         </SvnCopyRootSimple>
       </list>
     </option>
     <option name="myMoreRealMappingRoots">
       <list>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\my_graduation\graduation\actionbarsherlock" />
-          <option name="myCopyRoot" value="D:\my_graduation\graduation\actionbarsherlock" />
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../actionbarsherlock" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../actionbarsherlock" />
         </SvnCopyRootSimple>
         <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="D:\my_graduation\graduation\idevPlatform" />
-          <option name="myCopyRoot" value="D:\my_graduation\graduation\idevPlatform" />
+          <option name="myVcsRoot" value="$PROJECT_DIR$/../idevPlatform" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/../idevPlatform" />
         </SvnCopyRootSimple>
       </list>
     </option>
@@ -988,40 +698,61 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="b4a83b20-93ba-4e4e-aac8-dace462612c7" name="Default" comment="" />
       <created>1425026712220</created>
+      <option name="number" value="Default" />
       <updated>1425026712220</updated>
+      <workItem from="1428593234264" duration="786000" />
+      <workItem from="1431335099000" duration="4518000" />
+      <workItem from="1433647869221" duration="1109000" />
+      <workItem from="1440405735488" duration="850000" />
+      <workItem from="1440406649175" duration="66000" />
+      <workItem from="1440407681844" duration="1954000" />
+      <workItem from="1450340024163" duration="235000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9518000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
-    <editor active="false" />
+    <frame x="1" y="23" width="1276" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21284404" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3762811" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27795786" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1313364" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29262674" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1913203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32949308" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17857143" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.51688695" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21231766" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3274596" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17862372" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1034,11 +765,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1055,44 +781,20 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/receivers/SmsReceiver.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="15" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/sign_in_normal.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable/selector_off_item.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17830609" vertical-offset="0" max-vertical-offset="673">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/selector_garbage_clean_item.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11887073" vertical-offset="0" max-vertical-offset="673">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="54" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44528303" vertical-offset="244" max-vertical-offset="2360">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1101,9 +803,15 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1320" max-vertical-offset="5620">
+        <state vertical-scroll-proportion="0.0">
           <caret line="116" column="27" selection-start-line="116" selection-start-column="27" selection-end-line="116" selection-end-column="27" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/FrequentlyFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="50" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -1112,72 +820,39 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/DataBakeupActivity.java">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2470" max-vertical-offset="3000">
-          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/traffic/TrafficSortFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="1720">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/traffic/UsePlanFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1880" max-vertical-offset="3540">
-          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/CleanCacheActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="4180">
-          <caret line="53" column="107" selection-start-line="53" selection-start-column="107" selection-end-line="53" selection-end-column="107" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="124" column="52" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/utils/FileUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="880" max-vertical-offset="8440">
+        <state vertical-scroll-proportion="0.0">
           <caret line="75" column="31" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Develop_tools/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/content/ContextWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1992" max-vertical-offset="9820">
-          <caret line="203" column="16" selection-start-line="203" selection-start-column="16" selection-end-line="203" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/config/FescoConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29761904" vertical-offset="0" max-vertical-offset="2800">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/SysApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1560">
+        <state vertical-scroll-proportion="0.0">
           <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/InitData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="2880">
+        <state vertical-scroll-proportion="0.0">
           <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,345 +861,320 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29273084" vertical-offset="2471" max-vertical-offset="2980">
+        <state vertical-scroll-proportion="0.0">
           <caret line="131" column="56" selection-start-line="131" selection-start-column="56" selection-end-line="131" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.9474498" vertical-offset="6160" max-vertical-offset="30640">
-          <caret line="371" column="65" selection-start-line="371" selection-start-column="65" selection-end-line="371" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/dao/AntiVirusDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="2120">
-          <caret line="80" column="30" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/control/AppLockAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5614035" vertical-offset="396" max-vertical-offset="1200">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/strongbox_app_lock_ic_locked.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/next_out.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32163742" vertical-offset="0" max-vertical-offset="684">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.94152045" vertical-offset="1716" max-vertical-offset="2500">
-          <caret line="118" column="12" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_setup2.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05487805" vertical-offset="1324" max-vertical-offset="1980">
-          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup1Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23391813" vertical-offset="0" max-vertical-offset="684">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_against_theft.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="3940">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_setup3.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.25" vertical-offset="1049" max-vertical-offset="1860">
-          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_setup4.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.428572" vertical-offset="0" max-vertical-offset="1760">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AgainstTheftActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="2600">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AntiVirusActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="67" selection-start-line="50" selection-start-column="67" selection-end-line="50" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AppLockActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="121" column="28" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/BatteryManagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/BigFileManageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
+          <folding>
+            <element signature="e#5949#6283#0" expanded="false" />
+            <element signature="e#6264#6265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AddFreqActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/CleanCacheActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="25" selection-start-line="127" selection-start-column="25" selection-end-line="127" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/CreateGesturePasswordActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/DataBakeupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/GuideGesturePasswordActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/NumberAddressQueryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/dao/NumberAddressDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/TrafficManagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/UnlockGesturePasswordActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/dao/AntiVirusDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/dao/AppLockDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/db/AppLockDBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/applock/LockedAppFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/applock/UnlockAppFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="64" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/control/ViewPagerFramentAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_setup1.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.96428573" vertical-offset="1853" max-vertical-offset="2640">
-          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/ContactInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/ui/LineViewPagerIndicator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5576208" vertical-offset="0" max-vertical-offset="660">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_contacts.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/ui/ViewPagerIndicator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="520">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/parser/ContactInfoParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.669145" vertical-offset="0" max-vertical-offset="1420">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#722#735#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/item_contact.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="580">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/SelectContactActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.189591" vertical-offset="60" max-vertical-offset="1520">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#936#1219#0" expanded="false" />
-            <element signature="e#1214#1215#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup3Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
-          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1180#1181#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/MenuActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1005" max-vertical-offset="2620">
-          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-          <folding>
-            <element signature="e#2871#3019#0" expanded="true" />
-            <element signature="e#3012#3013#0" expanded="true" />
-            <element signature="e#3088#3237#0" expanded="true" />
-            <element signature="e#3230#3231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/functionfragment.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33240223" vertical-offset="41" max-vertical-offset="440">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/SettingsFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="4960">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../actionbarsherlock/src/com/actionbarsherlock/internal/widget/ActionBarContextView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="5293" max-vertical-offset="9420">
-          <caret line="325" column="52" selection-start-line="325" selection-start-column="52" selection-end-line="325" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/FrequentlyFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="1320">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/BaseSetupActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.684492" vertical-offset="236" max-vertical-offset="2220">
-          <caret line="31" column="91" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#745#1890#0" expanded="false" />
-            <element signature="e#1878#1879#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup2Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.741533" vertical-offset="244" max-vertical-offset="1540">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2339#2340#0" expanded="true" />
-            <element signature="e#2403#2404#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/menu.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15947467" vertical-offset="275" max-vertical-offset="1240">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/BaseFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1872" max-vertical-offset="2760">
-          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/Setup4Activity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/traffic/TrafficSortFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1160">
-          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/traffic/UsePlanFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/parser/AppInfoParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/provider/GPSInfoProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/parser/TaskInfoParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42780748" vertical-offset="0" max-vertical-offset="1580">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/ui/TabViewPagerIndicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/TaskManagerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="196" column="63" selection-start-line="196" selection-start-column="63" selection-end-line="196" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/model/MyAdmin.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_task_manager.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="56" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Develop_tools/adt-bundle-windows-x86_64-20131030/sdk/sources/android-19/android/app/admin/DevicePolicyManager.java">
+    <entry file="file://$PROJECT_DIR$/res/values/drawables.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5472371" vertical-offset="18693" max-vertical-offset="32740">
-          <caret line="992" column="19" selection-start-line="992" selection-start-column="19" selection-end-line="992" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="62" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/AppManagerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2519" max-vertical-offset="3200">
-          <caret line="140" column="66" selection-start-line="140" selection-start-column="66" selection-end-line="140" selection-end-column="66" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="207" column="13" selection-start-line="207" selection-start-column="13" selection-end-line="207" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/receivers/SmsReceiver.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/AdviceAppFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="93" max-vertical-offset="1380">
-          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/services/WatchDogService.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/SystemAppFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76642334" vertical-offset="1200" max-vertical-offset="3060">
-          <caret line="102" column="39" selection-start-line="102" selection-start-column="39" selection-end-line="102" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="164" column="26" selection-start-line="164" selection-start-column="26" selection-end-line="164" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/appmanage/UserAppFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/task/AdviceTaskFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/task/SystemTaskFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/fragment/traffic/PlanSettingFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bruce/phoneguard/android/activity/MenuActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70076334">
+          <caret line="65" column="45" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -1558,6 +1208,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>global_lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1569,7 +1220,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>Android SDK</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1581,7 +1232,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ResideMenu</last-edited>
+          <last-edited>PhoneGuard_Cliet</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1618,4 +1269,3 @@
     </states>
   </component>
 </project>
-
